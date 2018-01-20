@@ -1,2 +1,2 @@
 # OpenStreetMap
-Data wrangling of Austin OpenStreetMap data using Python and MongoDB.
+Data wrangling of Austin OpenStreetMap data using Python, MongoDB, and Jupyter.
